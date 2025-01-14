@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9893e5cb-eb87-4328-9655-2568e2c6c5c2)<h1>Omar- Creating a Folder with Linux</h1>
+<h1>Omar- Creating a Folder with Linux</h1>
 
  ### https://www.coursera.org/learn/technical-support-fundamentals/gradedLti/mFUAc/creating-a-folder-with-linux
 
@@ -31,33 +31,3 @@ Launch the lab: <br/>
 Create a folder:  <br/>
 <img src="https://i.imgur.com/L9ENmJm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
