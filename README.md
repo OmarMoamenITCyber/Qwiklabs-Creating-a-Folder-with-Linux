@@ -1,4 +1,4 @@
-<h1>Omar- Creating a Folder with Linux</h1>
+![image](https://github.com/user-attachments/assets/9893e5cb-eb87-4328-9655-2568e2c6c5c2)<h1>Omar- Creating a Folder with Linux</h1>
 
  ### https://www.coursera.org/learn/technical-support-fundamentals/gradedLti/mFUAc/creating-a-folder-with-linux
 
@@ -28,8 +28,8 @@ Launch the lab: <br/>
 <img src="https://i.imgur.com/ZUFwA94.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a folder:  <br/>
+<img src="https://i.imgur.com/L9ENmJm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
